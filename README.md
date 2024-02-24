@@ -1,4 +1,4 @@
-![masterHead](https://www.w3schools.com/tryit/)
+![masterHead](https://www.w3schools.com/tryit/)https://www.w3schools.com/tryit/
 <h1 align="center">Hey Everyone! I'm Bhavanth</h1>
 <h3 align="center">I'm a passionate Front-End Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
